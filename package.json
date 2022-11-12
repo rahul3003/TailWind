@@ -1,0 +1,22 @@
+{
+  "name": "tailwindcss",
+  "version": "1.0.0",
+  "description": "TailWind",
+  "main": "App.js",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul3003/TailWind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul3003/TailWind/issues"
+  },
+  "homepage": "https://github.com/rahul3003/TailWind#readme",
+  "dependencies": {
+    "node": "^19.0.1"
+  }
+}
